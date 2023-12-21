@@ -1,0 +1,8 @@
+# For Loop
+
+friends = ["Eren Yeager", "Mikasa Ackerman", "Armin Arlert", "Levi Ackerman", "Erwin Smith", "Reiner Braun", "Annie Leonhart", "Bertholdt Hooever", "Oyankopon", "Hange Zoe", "Ymir", "Zeke Yeager"]
+
+for friends in friends:
+    print(friends)
+
+print(len(friends))
